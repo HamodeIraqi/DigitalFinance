@@ -1,0 +1,6 @@
+{
+  "name": "اختبار امتحان المالية الرقمية",
+  "description": "اختبار امتحان المالية الرقمية - موقع اختبارات تفاعلية يحتوي على 150 سؤال وجواب ملخصة من مادة الأسس المفاهيمية للإدارة المالية الرقمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
